@@ -1,0 +1,10 @@
+{
+    "name": "stq",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "stq.xml",
+    "author": "zoezhen",
+    "minimum_firmware_version": 42
+}
